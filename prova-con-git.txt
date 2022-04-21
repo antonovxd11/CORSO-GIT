@@ -1,2 +1,4 @@
 Ciao sono antonio e sto imparando git
 oops ho sbagliato di tastiera
+
+questo è un clone della repository repo
